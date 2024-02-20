@@ -367,7 +367,7 @@ Header Style
 
 .sub-header ul.info li i {
   font-size: 20px;
-  color: #f35525;
+  color: rgb(242, 169, 60);
   margin-right: 8px;
 }
 
@@ -977,29 +977,11 @@ Video Style
 
 .video-content .video-frame {
   position: relative;
-  box-shadow: 0px 0px 15px rgba(0, 0, 0, 0.15);
   border-radius: 10px;
 }
 
 .video-content .video-frame img {
   border-radius: 10px;
-}
-
-.video-content .video-frame a {
-  position: absolute;
-  left: 50%;
-  top: 50%;
-  transform: translate(-26px, -26px);
-  width: 52px;
-  height: 52px;
-  background-color: #fff;
-  border-radius: 50%;
-  display: inline-block;
-  text-align: center;
-  line-height: 52px;
-  color: #f35525;
-  outline: 15px solid rgba(254, 85, 37, 0.5);
-  font-size: 18px;
 }
 
 /* 
