@@ -406,8 +406,8 @@ Header Style
   -moz-transition: all 0.3s ease 0s;
   -o-transition: all 0.3s ease 0s;
   transition: all 0.3s ease 0s;
-  display: inline-block;
-  width: 150px;
+  width: 220px;
+  height: 80px;
 }
 
 .header-area .main-nav .logo h1 {
@@ -416,7 +416,8 @@ Header Style
   text-transform: uppercase;
   color: #1e1e1e;
   font-weight: 700;
-  letter-spacing: 2px;
+  letter-spacing: 3px;
+  display: inline;
 }
 
 .background-header .main-nav .logo h1 {
