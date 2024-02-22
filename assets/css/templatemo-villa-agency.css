@@ -751,7 +751,7 @@ Banner Style
 }
 
 .main-banner .item-2 {
-  background-image: url(../images/banners/0002.jpeg);
+  background-image: url(../images/banners/0003.jpeg);
 }
 
 .main-banner .item-3 {
@@ -1139,7 +1139,7 @@ Properties Style
 .properties .item {
   background-color: #fafafa;
   border-radius: 10px;
-  padding: 30px;
+  padding: 10px;
   margin-bottom: 30px;
 }
 
@@ -1148,7 +1148,7 @@ Properties Style
 }
 
 .properties .item span.category {
-  background-color: #fbd9cf;
+  background-color: #fbf3cf;
   font-weight: 500;
   border-radius: 5px;
   font-size: 14px;
@@ -1181,7 +1181,7 @@ Properties Style
 
 .properties .item ul {
   border-bottom: 1px solid #eaeaea;
-  margin-bottom: 30px;
+  margin-bottom: 10px;
   padding-bottom: 30px;
 }
 
