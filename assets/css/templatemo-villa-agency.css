@@ -1144,7 +1144,15 @@ Properties Style
 }
 
 .properties .item img {
+  -webkit-transform: scale(1);
+	transform: scale(1);
+	-webkit-transition: .2s ease-in-out;
+	transition: .2s ease-in-out;
   border-radius: 10px;
+}
+.properties .item img:hover{
+  -webkit-transform: scale(1.1);
+	transform: scale(1.1);
 }
 
 .properties .item span.category {
