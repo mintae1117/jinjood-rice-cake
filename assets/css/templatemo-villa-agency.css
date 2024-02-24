@@ -786,7 +786,7 @@ Banner Style
 
 .main-banner .owl-dots {
   position: absolute;
-  bottom: 100px;
+  bottom: 20%;
   left: 10%;
 }
 
@@ -1817,4 +1817,59 @@ body {
   .contact-page .section-heading {
     margin-right: 100px;
   }
+}
+
+.search-box {
+  transform: translate(0%, 0%);
+  background-color: #1e1e1e;
+  color: #eaeaea;
+  height: 40px;
+  width: 260px;
+  border-radius: 20px;
+}
+
+.search-btn {
+  color: #eaeaea;
+  float: right;
+  width: 40px;
+  height: 40px;
+  border-radius: 50%;
+  border-color: transparent;
+  background: #f35525;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.search-txt {
+  float: left;
+  padding: 0;
+  background: none;
+  border: none;
+  outline: none;
+  color: #eaeaea;
+  font-size: 15px;
+  line-height: 40px;
+  width: 0;
+  transition: 0.5s;
+}
+
+.search-txt::placeholder {
+  color: #eaeaea;
+}
+
+.search-box .search-txt {
+  width: 200px;
+  margin-left: 20px;
+}
+
+.search-btn:hover {
+  background: #c22f03;
+}
+datalist {
+  position: absolute;
+  max-height: 20em;
+  border: 0 none;
+  overflow-x: hidden;
+  overflow-y: auto;
 }
