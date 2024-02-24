@@ -609,7 +609,6 @@ Header Style
   }
   .background-header .main-nav .nav li,
   .header-area .main-nav .nav li {
-    border-top: 1px solid #ddd;
     background-color: #f1f0fe;
     height: 50px;
     border-radius: 0px 0px 25px 25px;
@@ -1774,7 +1773,7 @@ body {
   background-color: #1e1e1e;
   color: #eaeaea;
   height: 40px;
-  width: 260px;
+  width: 270px;
   border-radius: 20px;
 }
 
