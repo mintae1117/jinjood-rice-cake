@@ -473,6 +473,10 @@ Header Style
   text-transform: none;
   border-radius: 20px;
   padding-left: 0px;
+  -webkit-transition: all 0.4s ease 0s;
+  -moz-transition: all 0.4s ease 0s;
+  -o-transition: all 0.4s ease 0s;
+  transition: all 0.4s ease 0s;
 }
 
 .header-area .main-nav .nav li:last-child a i {
