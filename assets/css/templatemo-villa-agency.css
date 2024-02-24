@@ -1007,11 +1007,12 @@ Best Deal Style
   padding: 0px 45px;
 }
 
-.best-deal .tabs-content .nav-link {
+.best-deal .tabs-content .nav-link3 {
+  border-color: transparent;
   font-size: 16px;
-  font-weight: 500;
+  font-weight: 1000;
   background-color: #1e1e1e !important;
-  border-radius: 5px;
+  border-radius: 10px;
   height: 50px;
   line-height: 50px;
   display: inline-block;
@@ -1019,8 +1020,44 @@ Best Deal Style
   color: #fff;
 }
 
-.best-deal .tabs-content .nav-tabs .nav-link.active {
-  background-color: #f35525 !important;
+.best-deal .tabs-content .nav-link1 {
+  border-color: transparent;
+  font-size: 16px;
+  font-weight: 1000;
+  background-color: #1e1e1e !important;
+  border-radius: 10px;
+  height: 50px;
+  line-height: 50px;
+  display: inline-block;
+  padding: 0px 25px;
+  color: #fff;
+}
+
+.best-deal .tabs-content .nav-link2 {
+  border-color: transparent;
+  font-size: 16px;
+  font-weight: 1000;
+  background-color: #1e1e1e !important;
+  border-radius: 10px;
+  height: 50px;
+  line-height: 50px;
+  display: inline-block;
+  padding: 0px 25px;
+  color: #fff;
+}
+
+.best-deal .tabs-content .nav-tabs .nav-link3.active {
+  background-color: #EE346B !important;
+  color: #fff;
+}
+
+.best-deal .tabs-content .nav-tabs .nav-link1.active {
+  background-color: #FAE100 !important;
+  color: #1e1e1e;
+}
+
+.best-deal .tabs-content .nav-tabs .nav-link2.active {
+  background-color: #56B347 !important;
   color: #fff;
 }
 
