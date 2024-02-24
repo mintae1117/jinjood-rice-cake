@@ -359,11 +359,6 @@ Header Style
   padding-right: 25px;
 }
 
-.sub-header ul.info li:last-child {
-  margin-right: 0px;
-  padding-right: 0px;
-  border-right: none;
-}
 
 .sub-header ul.info li i {
   font-size: 20px;
@@ -436,10 +431,6 @@ Header Style
   z-index: 999;
 }
 
-.header-area .main-nav .nav li:last-child {
-  padding-right: 0px;
-}
-
 .header-area .main-nav .nav li {
   padding-left: 10px;
   padding-right: 10px;
@@ -463,36 +454,6 @@ Header Style
   transition: all 0.4s ease 0s;
   border: transparent;
   letter-spacing: .25px;
-}
-
-.header-area .main-nav .nav li:last-child a {
-  background-color: #1e1e1e;
-  color: #fff;
-  font-size: 14px;
-  font-weight: 400;
-  text-transform: none;
-  border-radius: 20px;
-  padding-left: 0px;
-}
-
-.header-area .main-nav .nav li:last-child a i {
-  background-color: #f35525;
-  display: inline-block;
-  width: 40px;
-  height: 40px;
-  text-align: center;
-  line-height: 40px;
-  margin-right: 10px;
-  border-radius: 50%;
-  margin-left: -1px;
-}
-
-.header-area .main-nav .nav li:last-child:hover a {
-  background-color: #1e1e1e;
-}
-
-.header-area .main-nav .nav li:last-child:hover a i {
-  color: #fff;
 }
 
 .header-area .main-nav .nav li:hover a {
@@ -680,11 +641,6 @@ Header Style
   }
   .header-area.header-sticky .nav li.search-icon a {
     width: 100%;
-  }
-  .header-area .nav li:last-child a {
-    background-color: transparent !important;
-    font-weight: 300 !important;
-    text-transform: capitalize !important;
   }
   .header-area {
     padding: 0px 15px;
@@ -1714,9 +1670,6 @@ body {
   .properties ul.properties-filter li {
     margin: 5px;
   }
-  .header-area .main-nav .nav li:last-child {
-    display: none;
-  }
 }
 
 @media (max-width: 992px) {
@@ -1732,9 +1685,6 @@ body {
   .header-area .main-nav .nav li a {
     padding-left: 3px;
     padding-right: 3px;
-  }
-  .header-area .main-nav .nav li:last-child a {
-    padding-right: 15px;
   }
   .main-banner .item h2 {
     width: 100%;
