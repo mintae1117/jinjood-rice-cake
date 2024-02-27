@@ -1180,9 +1180,7 @@ Properties Style
 }
 
 .properties .item ul {
-  border-bottom: 1px solid #eaeaea;
-  margin-bottom: 10px;
-  padding-bottom: 30px;
+  padding-bottom: 10px;
 }
 
 .properties .item h6 {
