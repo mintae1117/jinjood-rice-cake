@@ -702,15 +702,15 @@ Banner Style
 }
 
 .main-banner .item-1 {
-  background-image: url(../images/banners/0002.jpeg);
+  background-image: url(../images/banners/banner001.png);
 }
 
 .main-banner .item-2 {
-  background-image: url(../images/banners/0003.jpeg);
+  background-image: url(../images/banners/banner002.png);
 }
 
 .main-banner .item-3 {
-  background-image: url(../images/banners/0001.jpeg);
+  background-image: url(../images/banners/banner003.png);
 }
 
 .main-banner .item span.category {
@@ -915,7 +915,7 @@ Video Style
 */
 
 .video {
-  background-image: url(../images/video-bg.jpg);
+  background-image: url(../images/banners/0003.jpeg);
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center center;
@@ -1147,8 +1147,30 @@ Properties Style
 	transform: scale(1.1);
 }
 
-.properties .item span.category {
-  background-color: #fbf3cf;
+.properties .item span.category1 {
+  background-color: #f9f1cb;
+  font-weight: 500;
+  border-radius: 5px;
+  font-size: 14px;
+  color: #1e1e1e;
+  padding: 5px 12px;
+  display: inline-block;
+  margin-top: 25px;
+}
+
+.properties .item span.category2 {
+  background-color: #f9dbcc;
+  font-weight: 500;
+  border-radius: 5px;
+  font-size: 14px;
+  color: #1e1e1e;
+  padding: 5px 12px;
+  display: inline-block;
+  margin-top: 25px;
+}
+
+.properties .item span.category3 {
+  background-color: #d1f8cb;
   font-weight: 500;
   border-radius: 5px;
   font-size: 14px;
@@ -1204,7 +1226,7 @@ Contact Style
 */
 
 .contact {
-  background-image: url(../images/contact-bg.jpg);
+  background-image: url(../images/banners/banner002.png);
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center center;
