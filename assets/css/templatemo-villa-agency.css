@@ -1103,7 +1103,6 @@ Best Deal Style
   color: #1e1e1e;
   font-weight: 700;
   float: right;
-  display: inline-block;
 }
 
 .best-deal .tabs-content {
@@ -1209,7 +1208,6 @@ Properties Style
   font-size: 20px;
   color: #f35525;
   margin-top: 6px;
-  display: inline-block;
   float: right;
   margin-top: 30px;
 }
@@ -1403,7 +1401,7 @@ Page Header Style
 }
 
 .page-heading h3 {
-  font-size: 48px;
+  font-size: 40px;
   font-weight: 900;
   text-transform: uppercase;
   color: #fff;
