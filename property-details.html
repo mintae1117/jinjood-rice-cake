@@ -7,6 +7,9 @@
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
     <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@100;200;300;400;500;600;700;800;900&display=swap" rel="stylesheet">
 
+    <!-- 공지사항 -->
+    <script src="https://unpkg.com/sweetalert/dist/sweetalert.min.js"></script>
+    
     <title>진주떡집 상품</title>
 
     <!-- Bootstrap core CSS -->
@@ -97,7 +100,7 @@
                     <li><a href="gifts.html">선물세트</a></li>
                     <li><a href="reciprocate.html">답례떡</a></li>
                     <li><a href="contact.html">오시는 길</a></li>
-                    <li><a href="">주문 바로가기</a></li>
+                    <li><a href="#" onclick="swal('공지사항!','상품상세 페이지, 세부 메뉴등의 기능들이 아직 미완성 입니다! 추후 개발 예정이니 조금만 기다려주세요!')">공지 확인하기</a></li>
                     <li>
                       <div class="search-box" style="margin: 0 auto;">
                               <input id="menuinput" class="search-txt" type="text" placeholder="원하시는 떡을 검색해 주세요." autocomplete="off" list="searchOptions" onkeypress="if (event.keyCode==13){gotopage();}"/>
