@@ -21,3 +21,7 @@ const now = new Date();
 const year = now.getFullYear();
 const since = year - 1995;
 myyear.innerText = since;
+
+function firstload(){
+    document.getElementById("firstload").click();
+}

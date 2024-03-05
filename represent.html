@@ -43,7 +43,7 @@
 
   </head>
 
-<body>
+<body onload="firstload()">
 <!-- ***** Preloader Start ***** -->
 <div id="js-preloader" class="js-preloader">
     <div class="preloader-inner">
@@ -146,7 +146,7 @@
     <div class="container">
       <ul class="properties-filter">
         <li>
-          <a class="is_active" href="#!" data-filter="*">모든 메뉴</a>
+          <a id="firstload" class="is_active" href="#!" data-filter="*">모든 메뉴</a>
         </li>
         <li>
           <a href="#!" data-filter=".a">찹쌀떡</a>
@@ -163,7 +163,7 @@
       </ul>
       <div class="row properties-box">
         <div class="col-lg-4 col-md-6 align-self-center mb-30 properties-items col-md-6 a">
-            <div class="item">
+          <div class="item">
                 <a href="property-details.html"><img src="assets/images/menu/menu001.jpeg" alt=""></a>
                 <span class="category1">추천</span>
                 <span class="category2">인기</span>
@@ -175,8 +175,8 @@
                 </ul>
               </div>
         </div>
-        <div class="col-lg-4 col-md-6 align-self-center mb-30 properties-items col-md-6 b">
-            <div class="item">
+        <div class="col-lg-4 col-md-6 align-self-center mb-30 properties-items col-md-6 a">
+          <div class="item">
                 <a href="property-details.html"><img src="assets/images/menu/menu002.jpeg" alt=""></a>
                 <span class="category1">추천</span>
                 <span class="category2">인기</span>

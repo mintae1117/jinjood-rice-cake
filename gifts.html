@@ -43,7 +43,7 @@
     <meta name="theme-color" content="#ffffff">
   </head>
 
-<body>
+<body onload="firstload()">
 <!-- ***** Preloader Start ***** -->
 <div id="js-preloader" class="js-preloader">
     <div class="preloader-inner">
@@ -146,7 +146,7 @@
         <div class="container">
             <ul class="properties-filter">
                 <li>
-                <a class="is_active" href="#!" data-filter="*">모든 메뉴</a>
+                <a id="firstload" class="is_active" href="#!" data-filter="*">모든 메뉴</a>
                 </li>
                 <li>
                 <a href="#!" data-filter=".gif">선물 세트</a>
