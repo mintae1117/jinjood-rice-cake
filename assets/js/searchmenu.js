@@ -40,6 +40,10 @@ function gotopage() {
         window.location.href=("property-details.html");
         return;
     }
+    if(menuname === "답례품4호"){
+        window.location.href=("property-details.html");
+        return;
+    }
     if(menuname === "답례품5호"){
         window.location.href=("property-details.html");
         return;
@@ -60,7 +64,15 @@ function gotopage() {
         window.location.href=("property-details.html");
         return;
     }
-    if(menuname === "떡국떡선물세트"){
+    if(menuname === "떡국세트1호"){
+        window.location.href=("property-details.html");
+        return;
+    }
+    if(menuname === "떡국세트2호"){
+        window.location.href=("property-details.html");
+        return;
+    }
+    if(menuname === "떡케이크"){
         window.location.href=("property-details.html");
         return;
     }
@@ -92,11 +104,31 @@ function gotopage() {
         window.location.href=("property-details.html");
         return;
     }
+    if(menuname === "백일&돌세트1호"){
+        window.location.href=("property-details.html");
+        return;
+    }
+    if(menuname === "백일&돌세트2호"){
+        window.location.href=("property-details.html");
+        return;
+    }
     if(menuname === "선물세트1호"){
         window.location.href=("property-details.html");
         return;
     }
+    if(menuname === "선물세트2호"){
+        window.location.href=("property-details.html");
+        return;
+    }
+    if(menuname === "선물세트3호"){
+        window.location.href=("property-details.html");
+        return;
+    }
     if(menuname === "선물세트4호"){
+        window.location.href=("property-details.html");
+        return;
+    }
+    if(menuname === "선물세트5호"){
         window.location.href=("property-details.html");
         return;
     }
@@ -148,7 +180,19 @@ function gotopage() {
         window.location.href=("property-details.html");
         return;
     }
+    if(menuname === "이바지(소)"){
+        window.location.href=("property-details.html");
+        return;
+    }
+    if(menuname === "이바지(중)"){
+        window.location.href=("property-details.html");
+        return;
+    }
     if(menuname === "이바지(대)"){
+        window.location.href=("property-details.html");
+        return;
+    }
+    if(menuname === "이바지(vip)"){
         window.location.href=("property-details.html");
         return;
     }
