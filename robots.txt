@@ -1,0 +1,3 @@
+User-agent: *
+Allow:/
+Sitemap: http://jinjood.com/sitemap.xml
