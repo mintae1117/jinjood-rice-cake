@@ -1706,14 +1706,8 @@ body {
 }
 
 @media (max-width: 767px) {
-  .main-banner .item-1 {
-    background-image: url(../images/banners/phonebanner01.avif);
-  }
-  .main-banner .item-2 {
-    background-image: url(../images/banners/phonebanner02.avif);
-  }
-  .main-banner .item-3 {
-    background-image: url(../images/banners/phonebanner03.avif);
+  .main-banner .item {
+    padding: 200px 20% 220px 20%;
   }
   .header-area .main-nav .logo h1 {
     line-height: 80px !important;
