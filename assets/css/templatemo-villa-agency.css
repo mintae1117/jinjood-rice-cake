@@ -1707,7 +1707,7 @@ body {
 
 @media (max-width: 767px) {
   .main-banner .item {
-    padding: 200px 20% 220px 20%;
+    padding: 150px 20% 170px 20%;
   }
   .header-area .main-nav .logo h1 {
     line-height: 80px !important;
@@ -1758,7 +1758,7 @@ body {
   }
   .main-banner .item h2 {
     width: 100%;
-    font-size: 35px;
+    font-size: 30px;
   }
   .featured .section-heading {
     margin-left: 0px;
