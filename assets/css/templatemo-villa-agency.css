@@ -1707,7 +1707,6 @@ body {
 
 @media (max-width: 767px) {
   .main-banner .item {
-    display: none;
     padding: 200px 20% 220px 20%;
   }
   .header-area .main-nav .logo h1 {
