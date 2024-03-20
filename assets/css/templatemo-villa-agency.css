@@ -702,15 +702,15 @@ Banner Style
 }
 
 .main-banner .item-1 {
-  background-image: url(../images/banners/banner001.avif);
+  background-image: url(../images/banners/banner001.jpeg);
 }
 
 .main-banner .item-2 {
-  background-image: url(../images/banners/banner002.avif);
+  background-image: url(../images/banners/banner002.jpeg);
 }
 
 .main-banner .item-3 {
-  background-image: url(../images/banners/banner003.avif);
+  background-image: url(../images/banners/banner003.jpeg);
 }
 
 .main-banner .item span.category {
@@ -1224,7 +1224,7 @@ Contact Style
 */
 
 .contact {
-  background-image: url(../images/banners/banner002.avif);
+  background-image: url(../images/banners/banner002.jpeg);
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center center;
@@ -1378,7 +1378,7 @@ Page Header Style
 */
 
 .page-heading {
-  background-image: url(../images/banners/banner002.avif);
+  background-image: url(../images/banners/banner002.jpeg);
   background-position: center bottom;
   background-repeat: no-repeat;
   background-size: cover;
