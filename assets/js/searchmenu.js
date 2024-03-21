@@ -149,7 +149,7 @@ function gotopage() {
         return;
     }
     if(menuname === "쑥설기"){
-        window.location.href=("property-details.html");
+        window.location.href=("property-details.html" + menuname);
         return;
     }
     if(menuname === "쑥인절미"){
@@ -192,7 +192,7 @@ function gotopage() {
         window.location.href=("property-details.html");
         return;
     }
-    if(menuname === "이바지(vip)"){
+    if(menuname === "이바지(vip)" || menuname === "이바지vip"){
         window.location.href=("property-details.html");
         return;
     }
