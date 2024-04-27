@@ -7,7 +7,7 @@ link : [사이트 바로가기](https://jinjood.com/)<br>
 
 ## 📷 각 페이지별 화면 사진.
 
-![](https://velog.velcdn.com/images/mintae1117/post/1a96fc92-0e2c-4056-b268-6bf8061ca2d7/image.png)
+![](https://velog.velcdn.com/images/mintae1117/post/6f73cdb3-d8f3-4e7c-bfe9-24b9055a96e7/image.png)
 ![](https://velog.velcdn.com/images/mintae1117/post/55fac5c5-ae3a-445b-88f2-788eca297f18/image.png)
 ![](https://velog.velcdn.com/images/mintae1117/post/cd67337a-2633-446f-824b-c40baafb2688/image.png)
 <br>
