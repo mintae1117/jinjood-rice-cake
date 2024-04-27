@@ -10,7 +10,6 @@ link : [사이트 바로가기](https://jinjood.com/)<br>
 ![](https://velog.velcdn.com/images/mintae1117/post/1a96fc92-0e2c-4056-b268-6bf8061ca2d7/image.png)
 ![](https://velog.velcdn.com/images/mintae1117/post/55fac5c5-ae3a-445b-88f2-788eca297f18/image.png)
 ![](https://velog.velcdn.com/images/mintae1117/post/cd67337a-2633-446f-824b-c40baafb2688/image.png)
-![](https://velog.velcdn.com/images/mintae1117/post/2b414374-bfdf-4c90-9834-c9ee0793970c/image.png)
 <br>
 
 ## 💻 사용 기술.
